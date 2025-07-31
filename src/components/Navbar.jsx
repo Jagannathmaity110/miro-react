@@ -9,7 +9,7 @@ const Navbar = () => {
         <img src={Logo} alt="MiroLogo " className="h-8" />
       </div>
 
-      <div className=" flex justify-center text-center mx-auto md:flex space-x-6">
+      <div className=" flex justify-center text-center mx-auto md:flex space-x-6 pl-20">
         <a href="#" className="text-gray-800 hover:text-blue-600 font-bold">
           Products
         </a>
