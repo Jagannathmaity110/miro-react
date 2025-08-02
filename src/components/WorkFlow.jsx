@@ -51,7 +51,7 @@ const WorkFlow = () => {
             </ul>
           </div>
         </div>
-        <div className="max-w-8xl mx-auto p-6 bg-white rounded-lg shadow-sm mt-10">
+        <div className="max-w-8xl mx-auto p-6 bg-white rounded-lg shadow-sm">
           <div className="flex flex-col lg:flex-row items-center gap-8">
             <div className="lg:w-1/2 w-full">
               <h1 className="text-3xl font-bold text-gray-900 mb-4">

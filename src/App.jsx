@@ -4,6 +4,7 @@ import Hero from "./components/Hero";
 import Collaborate from "./components/Collaborate";
 import Feature from "./components/Feature";
 import WorkFlow from "./components/WorkFlow";
+import Team from "./components/Team";
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
       <Collaborate/>
       <Feature/>
       <WorkFlow/>
+      <Team/>s
     </>
   );
 };
