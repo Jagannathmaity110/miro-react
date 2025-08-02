@@ -5,6 +5,7 @@ import Collaborate from "./components/Collaborate";
 import Feature from "./components/Feature";
 import WorkFlow from "./components/WorkFlow";
 import Team from "./components/Team";
+import TrustBadge from "./components/TrustBadge";
 
 const App = () => {
   return (
@@ -14,7 +15,8 @@ const App = () => {
       <Collaborate/>
       <Feature/>
       <WorkFlow/>
-      <Team/>s
+      <Team/>
+      <TrustBadge/>
     </>
   );
 };
