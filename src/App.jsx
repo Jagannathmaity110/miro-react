@@ -9,6 +9,7 @@ import TrustBadge from "./components/TrustBadge";
 import Tesimonials from "./components/Tesimonials";
 import About from "./components/About";
 import CTA from "./components/CTA";
+import Footer from "./components/Footer";
 
 const App = () => {
   return (
@@ -23,6 +24,7 @@ const App = () => {
       <Tesimonials/>
       <About/>
       <CTA/>
+      <Footer/>
     </>
   );
 };
