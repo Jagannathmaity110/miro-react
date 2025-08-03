@@ -29,7 +29,7 @@ const Testimonials = () => {
         <h2 className="text-3xl lg:text-4xl text-gray-900 font-bold text-center mt-8">
           Loved by the world's best teams
         </h2>
-        <button className="px-6 py-3 border border-blue-400 text-blue-600 rounded-full items-center mt-4 block mx-auto text-lg">
+        <button className="px-6 py-3 border border-blue-400 text-blue-600 rounded-full items-center mt-4 block mx-auto text-baseti">
           See all customer stories →
         </button>
       </div>

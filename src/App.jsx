@@ -7,6 +7,7 @@ import WorkFlow from "./components/WorkFlow";
 import Team from "./components/Team";
 import TrustBadge from "./components/TrustBadge";
 import Tesimonials from "./components/Tesimonials";
+import About from "./components/About";
 
 const App = () => {
   return (
@@ -19,6 +20,7 @@ const App = () => {
       <Team/>
       <TrustBadge/>
       <Tesimonials/>
+      <About/>
     </>
   );
 };
