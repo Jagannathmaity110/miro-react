@@ -19,6 +19,9 @@ Miro is a leading online whiteboard and visual collaboration platform designed t
 - **Icons**: react-feather
 - **Deployment**: Vercel
 
+## 🌟 Live Demo
+➡️ [Explore the live application here]((https://miro-react-landing-page.vercel.app/)) ⬅️
+
 ## 🚀 Quick Start
 1. Clone the repository:
 ```bash
